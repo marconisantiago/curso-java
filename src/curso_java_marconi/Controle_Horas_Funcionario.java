@@ -18,7 +18,7 @@ public class Controle_Horas_Funcionario {
 		System.out.println("NUMBER = " +x);
 		System.out.println("SALARY = " +salario);
 		
-
+		sc.close();
 	}
 
 }
